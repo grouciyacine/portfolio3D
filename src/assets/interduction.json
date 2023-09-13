@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Front end",
+            "image": "/frontend.png"
+        },
+        {
+            "name": "Backend",
+            "image": "/database.png"
+        },
+        {
+            "name": "FullStack",
+            "image": "/fullstack.png"
+        },
+        {
+            "name": "Mobile",
+            "image": "/mobile.png"
+        }
+    ]
+}

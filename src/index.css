@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #00002a;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+.blue-gard{
+  background-color: #00002a;
+background-image: linear-gradient(to top, #00002a 12%, #60A5FA
+74%);
+}
+.tilt-gard{
+  background-color: #8EC5FC;
+background-image: linear-gradient(0deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+.tilt-project{
+  background-color: #21D4FD;
+  background-image: linear-gradient(0deg, #21D4FD 0%, #B721FF 100%);
+  
+}

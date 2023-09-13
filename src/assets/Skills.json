@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "name": "html",
+            "logo": "/html.png",
+            "bg":"#e34c26"
+        },
+        {
+            "name": "css",
+            "logo": "/css.png",
+            "bg":"#264de4"
+        },
+        {
+            "name": "javascript",
+            "logo": "/js.png",
+            "bg":"#f0db4f"
+        },
+        {
+            "name":"typescript",
+            "logo":"/ts.png",
+            "bg":"#007acc"
+        },
+        {
+            "name":"python",
+            "logo":"/py.png",
+            "bg":"#ffde57"
+        },
+        {
+            "name": "react.js",
+            "logo": "/react.png",
+            "bg":"#61DBFB"
+        },
+        {
+            "name": "next.js",
+            "logo": "next.png",
+            "bg":"#FFF"
+        },
+        {
+            "name": "node.js",
+            "logo": "/node.png",
+            "bg":"#3c873a"
+        },
+        {
+            "name": "django",
+            "logo": "/django.png",
+            "bg":"#092e20"
+        },
+        {
+            "name": "redux",
+            "logo": "/redux.png",
+            "bg":"#764abc"
+        },
+        {
+            "name": "mySQL",
+            "logo": "/mysql.png",
+            "bg":"#00758F"
+        },
+        {
+            "name":"mongodb",
+            "logo":"/mongo.png",
+            "bg":"#68a063"
+        },
+        {
+            "name":"postgresql",
+            "logo":"postgresql.png",
+            "bg":"#008bb9"
+        },
+        {
+            "name":"git",
+            "logo":"git.png",
+            "bg":"#e34c26"
+        }
+    ]
+}

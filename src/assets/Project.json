@@ -1,0 +1,111 @@
+{
+    "data":[
+        {
+            "name":"YouTube Clone",
+            "image":"/youtube.png",
+            "github":"https://github.com/grouciyacine/Youtube-Client",
+            "description":"You can add video and watch'it and like and dislike and add comment login and register and google Auth 🤩",
+            "URL":"https://youtube-grouciyacine.vercel.app/",
+            "using":[
+                {"name":"#React js","color":"text-[#61DBFB]"},
+                {"name":"#MongoDB","color":"text-[#68a063]"},
+                {"name":"#Nodejs","color":"text-[#3c873a]"},
+                {"name":"#Google Cloud","color":"text-[#4285F4]"},
+                {"name":"#Redux","color":"text-[#764abc]"},
+                {"name":"#Scss","color":"text-[#CD6799]"}
+                
+            ]
+        },
+        {
+            "name":"Amazon Clone",
+            "github":"https://github.com/grouciyacine/amazon-client",
+            "description":"search for product and you can added to your wish list or to your card👌",
+            "image":"/amazone.jpg",
+            "URL":"https://amazon-grouciyacine.vercel.app/ ",
+            "using":[
+                {"name":"#React js","color":"text-[#61DBFB]"},
+                {"name":"#MongoDB","color":"text-[#68a063]"},
+                {"name":"#Nodejs","color":"text-[#3c873a]"},
+                {"name":"#Redux","color":"text-[#764abc]"},
+                {"name":"#Tailwind css","color":"text-[#3490dc]"}
+            ]
+    },
+    {
+        "name":"Netflix Clone",
+        "github":"https://github.com/grouciyacine/netflix-nextjs",
+        "description":"Watch movies and add to your favorites list 🎥",
+        "image":"/netflix.jpg",
+        "URL":"https://netflix-grouciyacine.vercel.app/",
+        "using":[
+            {"name":"#Next js","color":"text-[#FFF]"},
+            {"name":"#MongoDB","color":"text-[#68a063]"},
+            {"name":"#PrismaDB","color":"text-[#FFF]"},
+            {"name":"#Tailwind css","color":"text-[#3490dc]"}
+        ]
+},
+    {
+        "name":"Disney Clone",
+        "image":"/disny.jpg",
+        "github":"https://github.com/grouciyacine/disney",
+        "description":"you can login with google than you can watch movies that you want to watch😁",
+        "URL":"https://disney-grouciyacine.vercel.app/  ",
+        "using":[
+            {"name":"#Next js","color":"text-[#FFF]"},
+            {"name":"#FireBase","color":"text-[#FFCB2B]"},
+            {"name":"#Redux","color":"text-[#764abc]"},
+            {"name":"#Scss","color":"text-[#CD6799]"}
+        ]
+},
+{
+    "name":"tMovie",
+    "image":"/tmovies.jpg",
+    "URL":"https://netflixclone15.netlify.app/",
+    "github":"https://github.com/grouciyacine/Movies-clone",
+    "description":"get all movies news like new movies and watch trailers,get actors ,description of movie,get similar movies 🎥",
+    "using":[
+        {"name":"#React js","color":"text-[#61DBFB]"},
+        {"name":"#Scss","color":"text-[#CD6799]"}
+    ]
+},
+{
+    "name":"Chat web",
+    "image":"/chat.jpg",
+    "URL":"https://telegrame-clone-main-grouciyacine.vercel.app/ ",
+    "github":"https://github.com/grouciyacine/Telegrame-clone",
+    "description":"login and create your own group's  to talk with your friends😂",
+    "using":[
+        {"name":"#Next js","color":"text-[#FFF]"},
+        {"name":"#FireBase","color":"text-[#FFCB2B]"},
+        {"name":"#Redux","color":"text-[#764abc]"},
+        {"name":"#Scss","color":"text-[#CD6799]"}
+    ]
+},
+
+{
+    "name":"Football App",
+    "image":"/foot.jpg",
+    "URL":"https://drive.google.com/file/d/12k7nP_hx91wuGm4uvAKauftK-CqOWQVT/view?usp=sharing",
+    "github":"https://github.com/grouciyacine/football-app-client",
+    "description":"get league that you want to follow and you will get information about club,team ,stadium 🏐", 
+    "using":[
+        {"name":"#React Native","color":"text-[#61DBFB]"},
+        {"name":"#Nodejs","color":"text-[#3c873a]"},
+        {"name":"#Tailwind css","color":"text-[#3490dc]"},
+        {"name":"#MySQL","color":"text-[#00758F]"}
+    ]
+},
+{
+    "name":"Music App",
+    "image":"/music.jpg",
+    "github":"https://github.com/grouciyacine/Music-App",
+    "description":"listing  to music and add music to your list and get information about singer and there albums🎼",
+    "URL":"https://drive.google.com/file/d/12lFA3Ga9CB9C9RwCCg6_7d372ROLCKsH/view?usp=sharing",
+    "using":[
+        {"name":"#React Native","color":"text-[#61DBFB]"},
+        {"name":"#Nodejs","color":"text-[#3c873a]"},
+        {"name":"#Tailwind css","color":"text-[#3490dc]"},
+        {"name":"#MySQL","color":"text-[#00758F]"}
+    ]
+}
+    ]
+}
